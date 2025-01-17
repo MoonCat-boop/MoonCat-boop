@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 
 - 👋 Hi, I’m @MoonCat-boop, a computer programming student at Algonquin College
 - 👀 I’m interested in ... exploring new technologies
-- 🌱 I’m currently learning ... Java and Web development
+- 🌱 I’m currently learning ... Java, Database and Web development
 - ⚡ Fun fact: ... I'm left-handed!
 
 # 💻 Tech Stack:
